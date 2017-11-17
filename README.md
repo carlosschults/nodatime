@@ -19,4 +19,4 @@ are better handled on Stack Overflow, the mailing list, or as a GitHub issue.
 
 ## Contributing
 
-We appreciate your interest in contributing to Noda Time! All contributions are welcome, but please read and follow our [contribution guidelines.](https://github.com/nodatime/nodatime/CONTRIBUTING.md)
+We appreciate your interest in contributing to Noda Time! See the [contribution guidelines](https://github.com/nodatime/nodatime/blob/master/CONTRIBUTING.md) for more details.
