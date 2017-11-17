@@ -1,6 +1,6 @@
 # How to Contribute
 
-Thanks for your interest in NodaTime. We appreciate all kinds of contributions, from submitting issues to improving documentation; from writing tests to implementing new code. All help is welcome!
+Thanks for your interest in Noda Time. We appreciate all kinds of contributions, from submitting issues to improving documentation; from writing tests to implementing new code. All help is welcome!
 
 ## Basic Requirements
 
